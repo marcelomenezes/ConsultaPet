@@ -15,7 +15,7 @@ public class Consultorio {
 		ArrayList<Pet> listaPet = new ArrayList(),  listaConsulta = new ArrayList();
 		ArrayList<Pet> listaConsultaPriori = new ArrayList();
 		
-		
+		//sadsadadas
 		
 		
 		//Adiciona exemplos pra teste
